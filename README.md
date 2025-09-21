@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Doruk Mengüverdi  
 
-<!--
-**dorukmenguverdi/dorukmenguverdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Management Information Systems student* | 💻 *Java & Spring Boot Developer* | 🚀 *Building real-world projects*  
 
-Here are some ideas to get you started:
+I enjoy designing **backend systems**, exploring **Spring Boot ecosystems**, and experimenting with **full-stack development**. Most of my projects combine practical business logic with modern technologies like **Docker, PostgreSQL, Elasticsearch, and React**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects  
+
+### 🍽️ [RestaurantReviewPlatform](https://github.com/dorukmenguverdi/RestaurantReviewPlatform)  
+A full-stack **Spring Boot restaurant review platform** where users can:  
+- Discover restaurants  
+- Leave reviews with **ratings, photos**  
+- Search with **Elasticsearch fuzzy & geo-location**  
+- Secure authentication with **Keycloak**  
+
+---
+
+### ⏱️ [Chronos](https://github.com/dorukmenguverdi/Chronos)  
+A sleek **React-powered dashboard** for daily productivity:  
+- Timekeeping ⏰  
+- Scheduling 📅  
+- Inspiration in one elegant UI ✨  
+
+---
+
+### 🧮 [AccountingSystem](https://github.com/dorukmenguverdi/AccountingSystem)  
+A **construction accounting system** to manage employees, track attendance, handle advances, and generate **monthly salary reports** with ease.  
+
+---
+
+### 📦 [Inventory Management (Java Swing)](https://github.com/dorukmenguverdi/inventory-management-java)  
+A user-friendly **desktop application** for managing product inventory:  
+- Add, update, remove, and search products  
+- Built with **Java Swing** and modern **tabbed UI**  
+
+---
+
+### ✍️ [springboot-blog-app](https://github.com/dorukmenguverdi/springboot-blog-app)  
+A **Spring Boot 3 backend** for blogging:  
+- JWT authentication 🔑  
+- Category & tag management 🏷️  
+- Draft & published posts ✍️  
+- Integrated with **PostgreSQL**  
+
+---
+
+### ✅ [task-tracker-backend](https://github.com/dorukmenguverdi/task-tracker-backend)  
+A clean & modular **task management backend**:  
+- Create task lists with priorities and statuses  
+- Track progress visually  
+- Built with **Spring Boot + PostgreSQL (Docker)**  
+- API tested with **Postman**  
+
+---
+
+## 🛠 Tech Stack  
+
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
+![Keycloak](https://img.shields.io/badge/Keycloak-2C2C2C?style=for-the-badge&logo=keycloak&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Doruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukmenguverdi&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: *add your email here*  
+- 💼 LinkedIn: *add your LinkedIn here*  
+
+---
+✨ *Always learning, always building.*  
