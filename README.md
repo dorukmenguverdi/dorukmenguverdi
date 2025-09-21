@@ -2,7 +2,7 @@
 
 🎓 *Management Information Systems student* | 💻 *Java & Spring Boot Developer* | 🚀 *Building real-world projects*  
 
-I enjoy designing **backend systems**, exploring **Spring Boot ecosystems**, and experimenting with **full-stack development**. Most of my projects combine practical business logic with modern technologies like **Docker, PostgreSQL, Elasticsearch, and React**.  
+I enjoy designing scalable backend systems, exploring the Spring Boot ecosystem, and experimenting with full-stack development. While my main focus is backend engineering with Java & Spring Boot, I also work with Python for scripting, data analysis, and automation. Most of my projects integrate practical business logic with modern technologies such as Docker, PostgreSQL, Elasticsearch, and React.
 
 ---
 
@@ -64,7 +64,8 @@ A clean & modular **task management backend**:
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
