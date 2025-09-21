@@ -26,7 +26,11 @@ A sleek **React-powered dashboard** for daily productivity:
 ---
 
 ### 🧮 [AccountingSystem](https://github.com/dorukmenguverdi/AccountingSystem)  
-A **construction accounting system** to manage employees, track attendance, handle advances, and generate **monthly salary reports** with ease.  
+A construction-focused accounting system built with Java to streamline workforce and financial management. It provides:
+- Employee management (create, update, and track worker details)
+- Daily work attendance tracking 🗓️
+- Handling of salary advances 💵
+- Automatic generation of monthly salary and cost reports 📊
 
 ---
 
@@ -81,8 +85,8 @@ A clean & modular **task management backend**:
 
 ## 📫 Connect with Me  
 
-- 📧 Email: *add your email here*  
-- 💼 LinkedIn: *add your LinkedIn here*  
+- 📧 Email: menguverdidoruk@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/doruk-menguverdi/
 
 ---
 ✨ *Always learning, always building.*  
