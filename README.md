@@ -1,4 +1,8 @@
-# 👋 Doruk Mengüverdi
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi%2C+I'm+Doruk+Meng%C3%BCverdi%F0%9F%91%8B;Software+Engineer;Obsessed+with+Clean+Architecture;Building+Scalable+.NET+%26+AI+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
 **Software Engineer**  
 <p align="center">
