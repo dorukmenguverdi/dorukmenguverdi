@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Doruk%20Meng%C3%BCverdi&fontSize=42&fontColor=fff&animation=fadeIn" />
-</p>
+$ whoami
+> Doruk Mengüverdi | Software Engineer
+
+$ current_focus
+> Enterprise .NET Architectures • AI Systems • Zero-Spaghetti Code
 
 <p align="center">
   <code>Crafting bulletproof architectures by day, experimenting with AI by night.</code>
