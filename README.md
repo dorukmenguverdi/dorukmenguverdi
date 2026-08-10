@@ -46,9 +46,9 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical" alt="Doruk's GitHub stats">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical&v=1" alt="Doruk's GitHub stats" />
+</div>
 
 ---
 
