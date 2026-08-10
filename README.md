@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <i>Crafting bulletproof architectures by day, experimenting with AI by night. Focused on .NET, Python, and zero-spaghetti code.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical&v=2" alt="Doruk's GitHub stats">
 </p>
 
 ---
