@@ -47,7 +47,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical"
+    src="https://github-readme-stats-doruk6.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical"
     alt="Doruk's GitHub stats"
   />
 </p>
