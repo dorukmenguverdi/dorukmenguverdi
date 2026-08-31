@@ -11,9 +11,7 @@
   </a>
 </div>
 
-<p align="center">
-  <i>Crafting bulletproof architectures by day, experimenting with AI by night. Focused on .NET, Python, and zero-spaghetti code.</i>
-</p>
+![Doruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical)
 
 ---
 
