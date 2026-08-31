@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Activity
 
-[![Doruk's GitHub Stats](https://github-readme-stats-doruk6.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical)](https://github.com/dorukmenguverdi)
+[![Doruk's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dorukmenguverdi&theme=radical)](https://github.com/dorukmenguverdi)
 ---
 
 ## 📬 Get in Touch
