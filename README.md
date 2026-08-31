@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Enterprise%20.NET%20%7C%20Applied%20AI%20%7C%20Clean%20Architecture-000000?style=for-the-badge&logoColor=white&labelColor=111111&color=00FF66" alt="Focus Badge" />
+  <code>⚡ Crafting bulletproof architectures by day, pushing AI & systems by night. Zero spaghetti.</code>
 </p>
 
 ---
