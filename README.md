@@ -10,10 +10,11 @@
   </a>
 </div>
 
-<p align="center">
-  <i>Crafting bulletproof architectures by day, experimenting with AI by night. Focused on .NET, Python, and zero-spaghetti code.</i>
-</p>
-
+<div align="center">
+  <code>>_ Crafting bulletproof architectures by day, experimenting with AI by night.</code>
+  <br>
+  <code>>_ Focused on .NET, Python, and zero-spaghetti code. ⚡</code>
+</div>
 ---
 
 ## ⚡ Main Focus
