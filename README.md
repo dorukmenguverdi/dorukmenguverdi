@@ -45,9 +45,7 @@
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-doruk6.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical&v=2" alt="Doruk's GitHub stats" />
-</p>
+<img src="https://github-readme-stats-doruk6.vercel.app/api?username=dorukmenguverdi&show_icons=true&theme=radical&v=999" />
 
 ---
 
