@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=40&section=header&text=Crafting%20bulletproof%20architectures%20%E2%80%A2%20AI%20workflows%20%E2%80%A2%20Zero%20spaghetti&fontSize=14&fontColor=58a6ff&stroke=30363d&strokeWidth=1" alt="Subtitle" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=40&section=header&text=Crafting%20bulletproof%20architectures%20%E2%80%A2%20AI%20workflows%20%E2%80%A2%20Zero%20spaghetti&fontSize=14&fontColor=FF007F&stroke=3b1f2b&strokeWidth=1" alt="Subtitle" />
 </p>
 
 ---
