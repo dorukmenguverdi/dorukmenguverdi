@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FF&center=true&vcenter=true&width=550&lines=Doruk+Meng%C3%BCverdi+%2F%2F+Software+Engineer;Building+Scalable+Enterprise+Architectures;Pushing+AI+%26+Backend+to+the+Edge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF66&center=true&vcenter=true&width=550&lines=%3E+Doruk+Meng%C3%BCverdi;%3E+Architecting+Bulletproof+.NET+Backends;%3E+AI-Driven+Systems+%26+Clean+Code;%3E+Zero+Spaghetti.+Pure+Engineering." alt="Typing SVG" />
 </div>
 
 ---
