@@ -10,9 +10,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF66&center=true&vcenter=true&width=550&lines=%3E+Doruk+Meng%C3%BCverdi;%3E+Architecting+Bulletproof+.NET+Backends;%3E+AI-Driven+Systems+%26+Clean+Code;%3E+Zero+Spaghetti.+Pure+Engineering." alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Enterprise%20.NET%20%7C%20Applied%20AI%20%7C%20Clean%20Architecture-000000?style=for-the-badge&logoColor=white&labelColor=111111&color=00FF66" alt="Focus Badge" />
+</p>
 
 ---
 
