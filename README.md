@@ -10,9 +10,9 @@
   </a>
 </div>
 
-<p align="center">
-  <i>Crafting bulletproof architectures by day, experimenting with AI by night. Focused on .NET, Python, and zero-spaghetti code.</i>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FF&center=true&vcenter=true&width=550&lines=Doruk+Meng%C3%BCverdi+%2F%2F+Software+Engineer;Building+Scalable+Enterprise+Architectures;Pushing+AI+%26+Backend+to+the+Edge" alt="Typing SVG" />
+</div>
 
 ---
 
